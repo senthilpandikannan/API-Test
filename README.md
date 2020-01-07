@@ -18,6 +18,7 @@ http://localhost:1234/products/findall
 
 
 POST Request
+
 http://localhost:1234/products/create
 
 
@@ -46,6 +47,7 @@ http://localhost:1234/products/:id/delete
 
 
 Delete all records
+
 
 http://localhost:1234/products/deleteall
 
